@@ -1,6 +1,6 @@
 # Configuração
 `index.js` **:** `18`, `19`, `20`, `21`, `22` (necessário)
-`index.js` **:** `165` (opcional`
+`index.js` **:** `165` (opcional)
 
 # Hospedagem
 Recomendo Hospedar na [**DisCloud**](https://discloud.com), Más vai Da sua preferência :3
